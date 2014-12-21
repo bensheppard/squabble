@@ -16,7 +16,7 @@ ActiveRecord::Schema.define(version: 20141221151958) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "squabbles", force: :cascade do |t|
+  create_table "disputes", force: :cascade do |t|
     t.text     "description"
     t.text     "argument_for"
     t.text     "argument_against"
