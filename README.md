@@ -7,4 +7,4 @@ Social dispute resolution
 - Write the API!
 - Write the (web) client
 - Write the iOS client
-- Write the android client (maybe?)
+- Write the android client
